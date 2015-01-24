@@ -2,7 +2,7 @@
 Contributors: pankajanupam
 Tags: sidebar, categories sidebar
 Requires at least: 2.8
-Tested up to: 3.4.2
+Tested up to: 4.1
 
 Create sidebar for all the categories and use sidebar in categories pages.
 
@@ -40,5 +40,7 @@ None
 
 == Changelog ==
 
+= 2.0 =
+add support tag
 = 1.0 =
 Initial Release

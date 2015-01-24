@@ -1,11 +1,11 @@
 <?php
 /*
  Plugin Name: categories sidebar
-Plugin URI: http://pankajanupam.in/wordpress-plugins/categories-sidebar/
+Plugin URI: http://pankajanupam.com/wordpress-plugins/categories-sidebar/
 Description: Create a diffrent sidebar to diffrent categories
-Version: 1
-Author: PANKAJ ANUPAM
-Author URI: http://pankajanupam.in
+Version: 2.0
+Author: BigBrother
+Author URI: http://pankajanupam.com
 
 * LICENSE
 Copyright 2011 PANKAJ ANUPAM  (email : mymail.anupam@gmail.com)
